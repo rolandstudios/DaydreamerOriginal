@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text display="1">Daydreamer Awakened</text>
+      <pronunciation>d ey d r iy m er ___ ax w ey k ax n d</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">Daydreamer Awakened</text>
+      <pronunciation>d ey d r iy m ax r ___ ax w ey k ax n d</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>

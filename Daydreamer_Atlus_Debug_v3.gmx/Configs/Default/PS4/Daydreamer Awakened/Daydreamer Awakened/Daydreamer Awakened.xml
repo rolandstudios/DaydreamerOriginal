@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectDataExport>
+  <PhonemeData>
+    <Word>Daydreamer Awakened</Word>
+    <TargetLanguage>EnglishUK</TargetLanguage>
+    <Display>true</Display>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>d ey d r iy m ax r ___ ax w ey k ax n d</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>d ey d r iy m er ___ ax w ey k ax n d</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+  </PhonemeData>
+</ProjectDataExport>
